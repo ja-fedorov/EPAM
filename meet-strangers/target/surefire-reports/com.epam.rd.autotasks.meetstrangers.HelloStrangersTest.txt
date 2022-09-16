@@ -1,0 +1,76 @@
+-------------------------------------------------------------------------------
+Test set: com.epam.rd.autotasks.meetstrangers.HelloStrangersTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.112 s <<< FAILURE! - in com.epam.rd.autotasks.meetstrangers.HelloStrangersTest
+anyNamesTest{List}[1]  Time elapsed: 0.03 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Angus> but was: <Hello, 
+Hello, Angus>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[2]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Agent Smith> but was: <Hello, 
+Hello, Agent Smith>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[3]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Kiefer William Frederick Dempsey George Rufus Sutherland> but was: <Hello, 
+Hello, Kiefer William Frederick Dempsey George Rufus Sutherland>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[4]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, 1+-Pro-100-Tascher-+1
+Hello, Robert
+Hello, R2-D2
+Hello, Bilbo Baggins> but was: <Hello, 
+Hello, 1+-Pro-100-Tascher-+1
+Hello, Robert
+Hello, R2-D2
+Hello, Bilbo Baggins>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[5]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, John
+Hello, Billy Harrington
+Hello, Jimmy
+Hello, Jimmy> but was: <Hello, 
+Hello, John
+Hello, Billy Harrington
+Hello, Jimmy
+Hello, Jimmy>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[6]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Carl Johnson
+Hello, 1+-Pro-100-Tascher-+1
+Hello, C-3PO> but was: <Hello, 
+Hello, Carl Johnson
+Hello, 1+-Pro-100-Tascher-+1
+Hello, C-3PO>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[7]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Wastelander> but was: <Hello, 
+Hello, Wastelander>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
+anyNamesTest{List}[8]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <Hello, Carl Johnson
+Hello, Bilbo Baggins
+Hello, R2-D2
+Hello, Robert
+Hello, Wastelander> but was: <Hello, 
+Hello, Carl Johnson
+Hello, Bilbo Baggins
+Hello, R2-D2
+Hello, Robert
+Hello, Wastelander>
+	at com.epam.rd.autotasks.meetstrangers.HelloStrangersTest.anyNamesTest(HelloStrangersTest.java:57)
+
